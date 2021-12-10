@@ -133,7 +133,7 @@ class BaseDataset(data.Dataset, ABC):
             (255, 195, 77),
             (77, 204, 22),
             (22, 139, 77),
-            (0, 56, 138),
+            (1, 56, 138),
             (138, 76, 23),
         )
         KEYPOINT_CONNECTION_RULES = [

@@ -16,3 +16,4 @@ eval/detectron/utils/cython_nms.c
 eval/detectron/utils/cython_bbox.c
 
 *.result.tmp.pkl
+*.bat
